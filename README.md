@@ -19,3 +19,8 @@ Colab link (might need LionMail to access): https://colab.research.google.com/dr
 8.   Download genome fasta file and reformat per the above specifications
 9.   Download genome coordinate gff3 file, remove header and save as .tsv file
 10.  Upload required files to notebook, specify filenames in code block below, and run notebook 
+
+**Sample input files**
+* TT_v_WT_DP10QU20.tsv - Mutation comparison tsv file for S. Pombe test strain versus wild type with filters Quality > 20 and Depth > 10
+* Schizosaccharomyces_pombe_all_chromosomes.tsv - Genome tsv file for Schizosaccharomyces pombe
+* pombe_genome.fasta - Genome fasta file for Schizosaccharomyces pombe downloaded and modified from pombase.org
