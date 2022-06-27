@@ -3,7 +3,7 @@ This notebook automates the process of figuring out changes in protein sequences
 
 Colab link (might need LionMail to access): https://colab.research.google.com/drive/19hQxIFA3o0Rh4LYsh3U-HaHrO3-TvdqY?usp=sharing
 
-**Required input files:** \\
+**Required input files:**
 *   mutation_comparison_tsv_file - file describing the differences in two vcf files outputted by vcftools --gzdiff function (see http://vcftools.sourceforge.net/man_latest.html)
 *   geneome_tsv_file - a tsv file of the organism's feature coordinates in gff3 file format (can create by removing header starting with '#' from gff3 file and saving as tsv)
 *   genome_fasta_file - a fasta file with each chromosome sequence on a single line and sequence headers written as ">[chromosome name]"
