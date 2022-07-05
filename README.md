@@ -6,7 +6,7 @@ Colab link (might need LionMail to access): https://colab.research.google.com/dr
 **Required input files:**
 *   mutation_comparison_tsv_file - file describing the differences in two vcf files outputted by vcftools --gzdiff function (see http://vcftools.sourceforge.net/man_latest.html)
 *   geneome_tsv_file - a tsv file of the organism's feature coordinates in gff3 file format (can create by removing header starting with '#' from gff3 file and saving as tsv)
-*   genome_fasta_file - a fasta file with each chromosome sequence on a single line and sequence headers written as ">[chromosome name]"
+*   genome_fasta_file - a fasta file with each chromosome sequence headers written as ">[chromosome name]"
 
 **Full pipeline steps**
 1.   Obtain sequencing data of strain of interest and wild type
