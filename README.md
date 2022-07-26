@@ -1,4 +1,4 @@
-# peptide-mutation-finder
+# Peptide-Mutation-Finder
 This notebook automates the process of figuring out changes in protein sequences as a result of mutations found from genome sequencing. Written by Hunter King (https://github.com/retnuh-k/) under the guidance of Dr. Songtao Jia and Yimeng Fang as part of the Jia Lab (http://jia.biology.columbia.edu/).
 
 Colab link (might need LionMail to access): https://colab.research.google.com/drive/19hQxIFA3o0Rh4LYsh3U-HaHrO3-TvdqY?usp=sharing
